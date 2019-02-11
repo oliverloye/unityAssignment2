@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FE45A72E-CEE8-A4A5-B8F3-1A098BAE5CB7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ResetScript.cs">
+    <Files>
+      <File FileName="Assets/ResetScript.cs" Line="25" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
